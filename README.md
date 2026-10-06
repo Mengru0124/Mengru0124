@@ -6,7 +6,7 @@ Hi, I'm Mengru Zhang 👋
 - 🌱 I'm a postdoctoral researcher at CNRS (ICGM, Montpellier), with a PhD in Chemical Engineering from University College London (UCL).
 - 🔭 My research focuses on **computational chemistry, molecular simulation, and AI for materials discovery**, with particular interests in porous materials and molecular-level mechanisms in environmental and energy applications.
 - 📫 Reach me: mengru.zhang.20@ucl.ac.uk
-- 🎓 Google Scholar: [...](https://scholar.google.com/citations?user=BWZznakAAAAJ&hl=zh-CN)
+- 🎓 Google Scholar: [(https://scholar.google.com/citations?user=BWZznakAAAAJ&hl=zh-CN)](https://scholar.google.com/citations?user=BWZznakAAAAJ&hl=zh-CN)
 
 ### Tools & Methods
 `Python` `PyTorch` `ASE` `CP2K` `VASP` `Gaussian` `GROMACS` `LAMMPS` `RASPA` `PLUMED` `MACE` `DeepMD-kit`
